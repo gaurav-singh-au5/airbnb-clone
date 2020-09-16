@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Available Scripts
 In the project directory, you can run:
 
@@ -34,3 +35,6 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 # airbnb-clone
 Projects
 >>>>>>> 21bfb766f1911aa0e55f6e301bc7b0873f104eb2
+=======
+# airbnb-clone
+>>>>>>> ef8dbbed2eb0d67fbc05e2c062c7f94935f1b280
